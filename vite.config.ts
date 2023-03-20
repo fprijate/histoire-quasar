@@ -15,8 +15,4 @@ export default defineConfig({
   histoire: {
     setupFile: 'src/histoire.setup.ts',
   },
-
-  server: {
-    open: true,
-  },
 });
